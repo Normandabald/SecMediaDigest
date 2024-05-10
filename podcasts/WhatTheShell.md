@@ -1,8 +1,8 @@
-# What the### What the Shell?
+# What the Shell?
 
 ## Description:
 
-"What the Shell?" dives into the quirks and features of various programming languages, with a focus on shell scripting and its applications in cybersecurity.
+Dive into the quirks and features of various programming languages, with a focus on shell scripting and its applications in cybersecurity.
 
 **Frequency:**  
 Bi-weekly
