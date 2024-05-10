@@ -20,12 +20,4 @@ Streamlined hub for the best in cybersecurity media. Find top podcasts, YouTube 
 
 - [Ippsec](youtube/Ipsec.md)
 
-## Newsletters
-
-- [Cybersecurity Insiders](newsletters/CybersecurityInsiders.md)
-
-- [Dark Reading](newsletters/DarkReading.md)
-
-- [The Hacker News](newsletters/TheHackerNews.md)
-
 ## Books
